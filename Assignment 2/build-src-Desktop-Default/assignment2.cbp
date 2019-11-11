@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="assignment2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/build-src-Desktop-Default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/build-src-Desktop-Default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RayTracer.out">
+				<Option output="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/build-src-Desktop-Default/RayTracer.out" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/build-src-Desktop-Default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 RayTracer.out"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RayTracer.out/fast">
+				<Option output="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/build-src-Desktop-Default/RayTracer.out" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/build-src-Desktop-Default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 RayTracer.out/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/build-src-Desktop-Default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/cosc/student/hgc25/Work/Third\ Year/COSC363/Assignment\ 2/build-src-Desktop-Default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/Plane.cpp">
+			<Option target="RayTracer.out"/>
+		</Unit>
+		<Unit filename="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/Plane.h">
+			<Option target="RayTracer.out"/>
+		</Unit>
+		<Unit filename="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/Ray.cpp">
+			<Option target="RayTracer.out"/>
+		</Unit>
+		<Unit filename="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/Ray.h">
+			<Option target="RayTracer.out"/>
+		</Unit>
+		<Unit filename="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/RayTracer.cpp">
+			<Option target="RayTracer.out"/>
+		</Unit>
+		<Unit filename="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/SceneObject.cpp">
+			<Option target="RayTracer.out"/>
+		</Unit>
+		<Unit filename="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/SceneObject.h">
+			<Option target="RayTracer.out"/>
+		</Unit>
+		<Unit filename="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/Sphere.cpp">
+			<Option target="RayTracer.out"/>
+		</Unit>
+		<Unit filename="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/Sphere.h">
+			<Option target="RayTracer.out"/>
+		</Unit>
+		<Unit filename="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/TextureBMP.cpp">
+			<Option target="RayTracer.out"/>
+		</Unit>
+		<Unit filename="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/TextureBMP.h">
+			<Option target="RayTracer.out"/>
+		</Unit>
+		<Unit filename="/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

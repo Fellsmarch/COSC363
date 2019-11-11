@@ -1,0 +1,88 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/Plane.cpp
+Plane.h
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/Plane.h
+math.h
+-
+
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/Plane.h
+glm/glm.hpp
+-
+SceneObject.h
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/SceneObject.h
+
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/Ray.cpp
+Ray.h
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/Ray.h
+
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/Ray.h
+glm/glm.hpp
+-
+vector
+-
+SceneObject.h
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/SceneObject.h
+
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/RayTracer.cpp
+iostream
+-
+cmath
+-
+vector
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+Sphere.h
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/Sphere.h
+SceneObject.h
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/SceneObject.h
+Ray.h
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/Ray.h
+Plane.h
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/Plane.h
+GL/glut.h
+-
+TextureBMP.h
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/TextureBMP.h
+
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/SceneObject.cpp
+SceneObject.h
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/SceneObject.h
+
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/SceneObject.h
+glm/glm.hpp
+-
+
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/Sphere.cpp
+Sphere.h
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/Sphere.h
+math.h
+-
+
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/Sphere.h
+glm/glm.hpp
+-
+SceneObject.h
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/SceneObject.h
+
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/TextureBMP.cpp
+TextureBMP.h
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/TextureBMP.h
+
+/home/cosc/student/hgc25/Work/Third Year/COSC363/Assignment 2/src/TextureBMP.h
+iostream
+-
+fstream
+-
+glm/glm.hpp
+-
+
